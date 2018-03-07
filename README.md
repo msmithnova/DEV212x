@@ -51,3 +51,5 @@ Knowledge Checks
 ## Wrap-up and Final Exam
 
 Final Exam 
+
+Note: All labs were done on VSTS and Azure
